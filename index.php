@@ -15,7 +15,7 @@
 	<section>
     <div class="col-lg-6" alt="Image" class="img-fluid">
       <div style="position:relative">
-        <img src="img/glamista/fondo_baner.jpg" width="1300" hspace="10" height="700" vspace="0.1" />
+        <img src="img/glamista/fondo-baner.jpg" width="1300" hspace="10" height="700" vspace="0.1" />
         <div class="texto-encima">
           <div class="centrado">
             <h4>Shop is fun</h4>

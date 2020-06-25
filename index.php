@@ -6,12 +6,12 @@
 <!-- esto es una prueba looooool BAD BUNE-->
 
 
-  
+
 	<!--================ End Header Menu Area =================-->
 
   <main class="site-main">
 
-  
+
 	<section>
     <div class="col-lg-6" alt="Image" class="img-fluid">
       <div style="position:relative">
@@ -32,7 +32,7 @@
     </section>
 
 
-  
+
     <!--================ Hero Carousel start =================-->
     <section class="section-margin mt-0">
       <div class="owl-carousel owl-theme hero-carousel">
@@ -384,16 +384,15 @@
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
             <div class="card card-blog">
               <div class="card-blog__img">
-                <img class="card-img rounded-0" src="img/blog/blog1.png" alt="">
+                <img class="card-img rounded-0" src="img/glamista/1.png" alt="">
               </div>
               <div class="card-body">
                 <ul class="card-blog__info">
-                  <li><a href="#">By Admin</a></li>
-                  <li><a href="#"><i class="ti-comments-smiley"></i> 2 Comments</a></li>
+                  <li><a href="#">By Glamista Store</a></li>
                 </ul>
-                <h4 class="card-blog__title"><a href="single-blog.php">The Richland Center Shooping News and weekly shooper</a></h4>
-                <p>Let one fifth i bring fly to divided face for bearing divide unto seed. Winged divided light Forth.</p>
-                <a class="card-blog__link" href="#">Read More <i class="ti-arrow-right"></i></a>
+                <h4 class="card-blog__title"><a href="single-blog.php">Titulo de nuevo articulo</a></h4>
+                <p>Descripción del articulo</p>
+                <a class="card-blog__link" href="#">Conocer más <i class="ti-arrow-right"></i></a>
               </div>
             </div>
           </div>
@@ -401,16 +400,16 @@
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
             <div class="card card-blog">
               <div class="card-blog__img">
-                <img class="card-img rounded-0" src="img/blog/blog2.png" alt="">
+                <img class="card-img rounded-0" src="img/glamista/1.png" alt="">
               </div>
               <div class="card-body">
                 <ul class="card-blog__info">
-                  <li><a href="#">By Admin</a></li>
-                  <li><a href="#"><i class="ti-comments-smiley"></i> 2 Comments</a></li>
+                  <li><a href="#">By Glamista Store</a></li>
+                >
                 </ul>
-                <h4 class="card-blog__title"><a href="single-blog.php">The Shopping News also offers top-quality printing services</a></h4>
-                <p>Let one fifth i bring fly to divided face for bearing divide unto seed. Winged divided light Forth.</p>
-                <a class="card-blog__link" href="#">Read More <i class="ti-arrow-right"></i></a>
+                <h4 class="card-blog__title"><a href="single-blog.php">Titulo de nuevo articulo</a></h4>
+                <p>Descripción del articulo</p>
+                <a class="card-blog__link" href="#">Conocer más <i class="ti-arrow-right"></i></a>
               </div>
             </div>
           </div>
@@ -418,16 +417,16 @@
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
             <div class="card card-blog">
               <div class="card-blog__img">
-                <img class="card-img rounded-0" src="img/blog/blog3.png" alt="">
+                <img class="card-img rounded-0" src="img/glamista/1.png" alt="">
               </div>
               <div class="card-body">
                 <ul class="card-blog__info">
-                  <li><a href="#">By Admin</a></li>
-                  <li><a href="#"><i class="ti-comments-smiley"></i> 2 Comments</a></li>
+                  <li><a href="#">By Glamista Store</a></li>
+
                 </ul>
-                <h4 class="card-blog__title"><a href="single-blog.php">Professional design staff and efficient equipment you’ll find we offer</a></h4>
-                <p>Let one fifth i bring fly to divided face for bearing divide unto seed. Winged divided light Forth.</p>
-                <a class="card-blog__link" href="#">Read More <i class="ti-arrow-right"></i></a>
+                <h4 class="card-blog__title"><a href="single-blog.php">Titulo de nuevo articulo</a></h4>
+                <p>Descripción del articulo</p>
+                <a class="card-blog__link" href="#">Conocer más <i class="ti-arrow-right"></i></a>
               </div>
             </div>
           </div>
@@ -440,15 +439,15 @@
     <section class="subscribe-position">
       <div class="container">
         <div class="subscribe text-center">
-          <h3 class="subscribe__title">Get Update From Anywhere</h3>
-          <p>Bearing Void gathering light light his eavening unto dont afraid</p>
+          <h3 class="subscribe__title">¡SUSCRIBETE!</h3>
+          <p>Suscribete para recibir ofertas y novedades de Glamista Store</p>
           <div id="mc_embed_signup">
             <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="subscribe-form form-inline mt-5 pt-1">
               <div class="form-group ml-sm-auto">
-                <input class="form-control mb-1" type="email" name="EMAIL" placeholder="Enter your email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email Address '" >
+                <input class="form-control mb-1" type="email" name="EMAIL" placeholder="Ingresa tu email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email Address '" >
                 <div class="info"></div>
               </div>
-              <button class="button button-subscribe mr-auto mb-1" type="submit">Subscribe Now</button>
+              <button class="button button-subscribe mr-auto mb-1" type="submit">Subscribete Ahora</button>
               <div style="position: absolute; left: -5000px;">
                 <input name="b_36c4fd991d266f23781ded980_aefe40901a" tabindex="-1" value="" type="text">
               </div>

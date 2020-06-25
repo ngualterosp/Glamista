@@ -4,7 +4,27 @@
 
 
 <!-- esto es una prueba looooool BAD BUNE-->
-
+  <!--================ Hero banner start =================-->
+  <section class="hero-banner">
+      <div class="container">
+        <div class="row no-gutters align-items-center pt-60px">
+          <div class="col-5 d-none d-sm-block">
+            <div class="hero-banner__img">
+              <img class="img-fluid" src="img/glamista/1.png" alt="">
+            </div>
+          </div>
+          <div class="col-sm-7 col-lg-6 offset-lg-1 pl-4 pl-md-5 pl-lg-0">
+            <div class="hero-banner__content">
+              <h4>Glamista Store</h4>
+              <h1>Glamista Store</h1>
+              <p>Glamista Store</p>
+              <a class="button button-hero" href="#">Glamista Store</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--================ Hero banner start =================-->
 
   
 	<!--================ End Header Menu Area =================-->
@@ -18,14 +38,14 @@
         <img src="img/glamista/fondo-baner.jpg" width="1300" hspace="10" height="700" vspace="0.1" />
         <div class="texto-encima">
           <div class="centrado">
-            <h4>Shop is fun</h4>
-            <h1>Browse Our Premium Product</h1>
-            <p>Us which over of signs divide dominion deep fill bring they're meat beho upon own earth without morning over third. Their male dry. They are great appear whose land fly grass.</p>
-            <a class="button button-hero" href="#">Browse Now</a>
+            <h4>Glamista Store</h4>
+            <h1>Glamista Store</h1>
+            <p>Glamista Store</p>
+            <a class="button button-hero" href="#">Glamista Store</a>
           </div>
         </div>
         <DIV STYLE="position:absolute; top:50px; left:105px; visibility:visible z-index:1">
-        <IMG height="650" SRC="img/home/hero-banner.png" width="460">
+        <IMG height="650" SRC="img/glamista/1.png" width="460">
         </div>
         </div>
       </div>
@@ -37,24 +57,24 @@
     <section class="section-margin mt-0">
       <div class="owl-carousel owl-theme hero-carousel">
         <div class="hero-carousel__slide">
-          <img src="img/home/hero-slide1.png" alt="" class="img-fluid">
+          <img src="img/glamista/1.png" alt="" class="img-fluid"  width="250px" height="250px">
           <a href="#" class="hero-carousel__slideOverlay">
-            <h3>Wireless Headphone</h3>
-            <p>Accessories Item</p>
+            <h3>Glamista Store</h3>
+            <p>Glamista Store</p>
           </a>
         </div>
         <div class="hero-carousel__slide">
-          <img src="img/home/hero-slide2.png" alt="" class="img-fluid">
+          <img src="img/glamista/2.png" alt="" class="img-fluid" width="250px" height="250px"> 
           <a href="#" class="hero-carousel__slideOverlay">
-            <h3>Wireless Headphone</h3>
-            <p>Accessories Item</p>
+            <h3>Glamista Store</h3>
+            <p>Glamista Store</p>
           </a>
         </div>
         <div class="hero-carousel__slide">
-          <img src="img/home/hero-slide3.png" alt="" class="img-fluid">
+          <img src="img/glamista/3.png" alt="" class="img-fluid" width="250px" height="250px">
           <a href="#" class="hero-carousel__slideOverlay">
-            <h3>Wireless Headphone</h3>
-            <p>Accessories Item</p>
+            <h3>Glamista Store</h3>
+            <p>Glamista Store</p>
           </a>
         </div>
       </div>
@@ -65,7 +85,7 @@
     <section class="section-margin calc-60px">
       <div class="container">
         <div class="section-intro pb-60px">
-          <p>Lo más popular en la tienda</p>
+          <p>Glamista Store</p>
           <h2><span class="section-intro__style">Tendencias</span></h2>
         </div>
         <div class="row">

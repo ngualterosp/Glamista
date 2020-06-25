@@ -30,12 +30,12 @@
 						<div class="single-footer-widget instafeed">
 							<h4 class="footer_title">Galeria</h4>
 							<ul class="list instafeed d-flex flex-wrap">
-								<li><img src="img/glamista/1.png" alt=""></li>
-								<li><img src="img/glamista/1.png" alt=""></li>
-								<li><img src="img/glamista/1.png" alt=""></li>
-								<li><img src="img/glamista/1.png" alt=""></li>
-								<li><img src="img/glamista/1.png" alt=""></li>
-								<li><img src="img/glamista/1.png" alt=""></li>
+								<li><img src="img/glamista/1.png" width="70px" height="70px" alt=""></li>
+								<li><img src="img/glamista/1.png" width="70px" height="70px" alt=""></li>
+								<li><img src="img/glamista/1.png" width="70px" height="70px" alt=""></li>
+								<li><img src="img/glamista/1.png" width="70px" height="70px" alt=""></li>
+								<li><img src="img/glamista/1.png" width="70px" height="70px" alt=""></li>
+								<li><img src="img/glamista/1.png" width="70px" height="70px" alt=""></li>
 							</ul>
 						</div>
 					</div>
